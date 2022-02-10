@@ -30,6 +30,7 @@ export const ProductCard = ({
   value,
   initialValues,
   onChange,
+  
 }: Props) => {
   const { counter, maxCount, isMaxCountReached, reset, increaseBy } = useProduct({
     onChange,

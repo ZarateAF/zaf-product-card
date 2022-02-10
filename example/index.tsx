@@ -5,7 +5,7 @@ import { ProductCard, ProductImage, ProductTitle, ProductButtons } from '../.';
 
 const product = {
   id: '1',
-  title: 'Coffee test',
+  title: 'Coffee test 1',
   img: './coffee-mug.png',
 };
 
